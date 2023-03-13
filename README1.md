@@ -7,5 +7,5 @@ Nesse foi projeto, foi criada uma página web, para contato e agendamento de ser
 Para rodar esse projeto, por favor:
 
 ```
-install Visual Studio Code / VsCode
+node app.js
 ```
